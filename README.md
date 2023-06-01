@@ -1,4 +1,10 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=soft&text=Hi%20I'm%20Yerin&animation=fadeIn&color=b679D2&fontColor=ffffff)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyerin802&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 <!--
 **chyerin802/chyerin802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
