@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft)
+![header](https://capsule-render.vercel.app/api?type=soft&text=Hi%20I'm%20Yerin&animation=fadeIn&color=b679D2&fontColor=ffffff)
 
 <!--
 **chyerin802/chyerin802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
