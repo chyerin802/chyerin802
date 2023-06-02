@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=soft&text=Hi%20I'm%20Yerin&animation=fadeIn&color=b679D2&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hi%20I'm%20Yerin&animation=fadeIn&color=gradient&fontColor=ffffff&height=200)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chyerin802&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
